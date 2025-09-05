@@ -1,3 +1,6 @@
+#ただ連呼するだけのプログラムだよ
+
+
 print("=====連呼プログラム=====")
 print("[[©2025 FuriCLI All Rights Reserved]]")
 print("### Ver.1.0 ###")
