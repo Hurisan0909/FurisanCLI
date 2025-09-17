@@ -121,7 +121,7 @@ try:
     while loooop:
         print("\n==========CLIメインメニュー==========")
         print("[[©2025 FuriCLI All Rights Reserved]]")
-        print("(ver1.2)")
+        print("(ver1.3)")
         print("--------------------------------------")
         print("分からないときは'help'を入力してください")
 
